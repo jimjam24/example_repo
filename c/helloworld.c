@@ -1,4 +1,4 @@
-//Hello world example
+//Hello world ex
 #include <stdio.h>
 
 int main() {
